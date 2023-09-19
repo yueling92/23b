@@ -34,16 +34,17 @@
 - [ ] 3
 - [ ] 4
 ----
-python cost
-、、、python
-s="Python highlights syntax"
+python code
+```python
+s = "Python highlights syntax"
 print(s)
-、、、
+```
+
 javascript code
-、、、JavaScript
+```JavaScript
 var s = "JavaScript highlights syntax";
-alert(s);
-、、、
+alert(s)
+```
 
 |  *Table*  |    *Are*    | *Cool* |
 |:------:|:----------:|:------------:|

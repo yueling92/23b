@@ -8,7 +8,8 @@
 💢
 # 😸
 ----
-![NKUST](nkust.jpg "高雄科技大學")
+![NKUST](nkust.jpg "高科大")
+![chocolate](chocolate.jpg "巧克力")
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
 ----
 > Emphasis, aka *alics*, with asterisks or *underscores*.  

@@ -4,12 +4,13 @@
 #### 23b康
 ##### 23b康
 ###### 23b康
-
+----
 💢
 # 😸
 ----
 ![NKUST](nkust.jpg "高科大")
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+----
 > Emphasis, aka *alics*, with asterisks or *underscores*.  
 > Strong emphasis, aka bold, with **asterisks** or **underscores**.  
 > Combined emphasis with **asterisks and _underscores_**.  
@@ -29,10 +30,13 @@
     ***note 3  
 - [ ] todo list
 - [ ] 2nd things
-
+- [ ] 3
+- [ ] 4
+----
 python
 s = "python 語法高亮"
 print s
+----
 javascript
 var s = "JavaScript 語法高亮";
 alert(s);

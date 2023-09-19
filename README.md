@@ -41,7 +41,7 @@ javascript
 var s = "JavaScript 語法高亮";
 alert(s);
 
-|  **Table**  |    **Are**    | **Cool** |
+|  *Table*  |    *Are*    | *Cool* |
 |:------:|:----------:|:------------:|
 |  **col 3 is**  |  right-aligned  |  $1600  |
 |  **col 2 is**  |   centered   |   $12   |

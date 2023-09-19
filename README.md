@@ -8,8 +8,6 @@
 💢
 # 😸
 ----
-![nkust](nkust.jpg "高科大")
-----
 ![chocolate](chocolate.jpg "巧克力")
 ----
 [![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
@@ -31,17 +29,17 @@
     *note 1   
     *note 2  
     ***note 3  
-- [ ] todo list
+- [x] todo list
 - [ ] 2nd things
 - [ ] 3
 - [ ] 4
 ----
 python
-s = "python 語法高亮"
+s = "python"
 print s
 ----
 javascript
-var s = "JavaScript 語法高亮";
+var s = "JavaScript";
 alert(s);
 
 |  *Table*  |    *Are*    | *Cool* |

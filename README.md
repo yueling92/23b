@@ -28,7 +28,7 @@
     *note 1   
     *note 2  
     ***note 3  
-- [ ] todo list
+- [ X] todo list
 - [ ] 2nd things
 - [ ] 3
 - [ ] 4

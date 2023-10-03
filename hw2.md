@@ -47,6 +47,6 @@ digraph {
     no10->no11
 }
 ```
-![pertdiagram](pert_diagram.jpg "圖片")
+![pertdiagram](pertdiagram.jpg "圖片")
 ## 關鍵路徑
 1 -> 2 -> 4-> 6 -> 9 -> 11

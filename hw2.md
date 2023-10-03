@@ -31,5 +31,5 @@ digraph {
     no4->no5
 }
 ```
-
+![pert_diagram](pert_diagram.jpg"圖片")
 ## 關鍵路徑

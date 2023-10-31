@@ -1,0 +1,7 @@
+ClassRoom {
+  private Course course;
+}
+
+Course {
+  private ClassRoom room;
+}
